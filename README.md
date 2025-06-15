@@ -1,16 +1,15 @@
-## Hi there 👋
+# Duke/Bails
 
-<!--
-**Duke-Bails/Duke-bails** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Custom WhatsApp Web API based on [Baileys](https://github.com/adiwajshing/Baileys) and [Bails](https://github.com/kiuur/bails), optimized for:
 
-Here are some ideas to get you started:
+- 🔐 Pairing code login (no QR)
+- 🧩 Function bubble parsing
+- 💥 Payload injection (Crash/Freeze/Delay)
+- 📦 Native Flow & Button support
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> Built for educational purposes and function-based automation.
+
+## Credits
+Forked and improved from:
+- https://github.com/adiwajshing/baileys
+- https://github.com/kiuur/bails
